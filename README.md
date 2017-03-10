@@ -14,4 +14,8 @@ Current notebooks:
 
 * **LearningPython.FUSECatalogQuery.ipynb** Using Python to query the entirety of the FUSE exposure catalog.
 
+* **COS-Halos.DatabaseAccess.ipynb** Notes on accessing information in the COS-Halos database of JXP's `pyigm`.
+
+Special:
+
 * **Max's Brown Seeds.ipynb** Example plotting and simple statistics using a sample of the number of seeds in brown "mustache plant" seed pods (from Max Howk).
