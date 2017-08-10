@@ -12,6 +12,8 @@ Current notebooks:
 
 * **LearningPython.SpectralPlots.ipynb:** Slightly more advanced plots, focused on making multiple plots in a stack. Useful for plotting spectral results (includes some GBT data as an example).
 
+* **LearningPython.units-M31halo.ipynb** Calculating the mass of the CGM about M31 to demonstrate the use of units and constants in `astropy`.
+
 * **LearningPython.FUSECatalogQuery.ipynb** Using Python to query the entirety of the FUSE exposure catalog.
 
 * **COS-Halos.DatabaseAccess.ipynb** Notes on accessing information in the COS-Halos database of JXP's `pyigm`.
