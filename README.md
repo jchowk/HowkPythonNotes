@@ -4,7 +4,9 @@ This repository contains a few iPython notebooks to keep notes on some of the is
 
 This work uses `astropy, matplotlib, numpy`.
 
-Current notebooks:
+Most notebooks should work with either Python 2 or 3, though Python 3 is assumed.
+
+Current notebooks /guides (if just starting, go in this order):
 
 * **LearningPython.basics.ipynb:** How to treat arrays, make basic plots, and even just get the basic importing functionality right.
 
@@ -16,8 +18,15 @@ Current notebooks:
 
 * **LearningPython.FUSECatalogQuery.ipynb** Using Python to query the entirety of the FUSE exposure catalog.
 
-* **COS-Halos.DatabaseAccess.ipynb** Notes on accessing information in the COS-Halos database of JXP's `pyigm`.
+
+Advanced notes:
+* **Advanced.Axis Breaks.ipynb** Examples of plotting with "broken" axes, gaps in the x or y plot ranges.
 
 Special:
+* **ccdproc-Example.ipynb** Examples on using the python implementaiton of CCDproc from the dev team.
+
+* **COS-Halos.DatabaseAccess.ipynb** Notes on accessing information in the COS-Halos database of JXP's `pyigm`.
+
+* **Hafen-voronoi_plotting.ipynb** Zach Hafen's notes on plotting using Voronoi binning.
 
 * **Max's Brown Seeds.ipynb** Example plotting and simple statistics using a sample of the number of seeds in brown "mustache plant" seed pods (from Max Howk).
