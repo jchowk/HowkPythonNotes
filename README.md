@@ -6,7 +6,7 @@ This work uses `astropy, matplotlib, numpy`.
 
 Most notebooks should work with either Python 2 or 3, though Python 3 is assumed.
 
-Current notebooks /guides (if just starting, go in this order):
+**Current notebooks** /guides (if just starting, go in this order):
 
 * **LearningPython.basics.ipynb:** How to treat arrays, make basic plots, and even just get the basic importing functionality right.
 
@@ -19,10 +19,10 @@ Current notebooks /guides (if just starting, go in this order):
 * **LearningPython.FUSECatalogQuery.ipynb** Using Python to query the entirety of the FUSE exposure catalog.
 
 
-Advanced notes:
+**Advanced notes:**
 * **Advanced.Axis Breaks.ipynb** Examples of plotting with "broken" axes, gaps in the x or y plot ranges.
 
-Special:
+**Special:**
 * **ccdproc-Example.ipynb** Examples on using the python implementaiton of CCDproc from the dev team.
 
 * **COS-Halos.DatabaseAccess.ipynb** Notes on accessing information in the COS-Halos database of JXP's `pyigm`.
