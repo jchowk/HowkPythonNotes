@@ -18,6 +18,7 @@ Most notebooks should work with either Python 2 or 3, though Python 3 is assumed
 
 * **LearningPython.FUSECatalogQuery.ipynb** Using Python to query the entirety of the FUSE exposure catalog.
 
+* **LearningPython.astroquery.ipynb** Using the `astroquery` module to query Simbad.
 
 **Advanced notes:**
 * **Advanced.Axis Breaks.ipynb** Examples of plotting with "broken" axes, gaps in the x or y plot ranges.
