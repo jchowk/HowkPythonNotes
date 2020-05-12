@@ -22,6 +22,10 @@ Most notebooks should work with either Python 2 or 3, though Python 3 is assumed
 **Advanced notes:**
 * **Advanced.Axis Breaks.ipynb** Examples of plotting with "broken" axes, gaps in the x or y plot ranges.
 
+* **Advanced.CalculateImpactParameters.ipynb** An example using `astropy.coordinates` and `astropy.cosmology` tools to calculate impact parameters for galaxies with respect to a QSO.
+
+* **Advanced.MCMCfit.ipynb** An example of fitting a power law function to a dataset using the MCMC code `emcee`.
+
 **Special:**
 * **ccdproc-Example.ipynb** Examples on using the python implementaiton of CCDproc from the dev team.
 
