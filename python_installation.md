@@ -32,6 +32,8 @@
     git clone https://github.com/jchowk/pyND.git
 ```
 
+You can download this directly from the site pointed to with that command. To update your PYTHONPATH variable to point to the directory, edit the file ~/.profile to include something like this:`export PYTHONPATH="$PYTHONPATH:/Users/howk/python`, where your pyND distribution is the directory containing the pyND distribution (which can be in a sub-directory).
+
 - linetools
 ```
     git clone https://github.com/linetools/linetools.git
